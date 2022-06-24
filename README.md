@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cyrilc0de
 - 👀 I’m interested in Front-End
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML,CSS and Javascript
 -  💞️ I’m looking to collaborate on Front End Engineering
 -  - 📫 How to reach me cyril.ekpenyong.197315@unn.edu.ng
 <!---
